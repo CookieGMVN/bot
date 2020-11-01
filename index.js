@@ -54,4 +54,4 @@ else if (message.content === prefix + 'clear'){
 
 
 // Log our bot in using the token from https://discord.com/developers/applications
-client.login('NzcxNjgwNTY4Nzk0NDE1MTE0.X5vpiA.R8SJCtsHxv38lx0Bz1WvYbhP3uk');
+client.login('Your bot token here');
